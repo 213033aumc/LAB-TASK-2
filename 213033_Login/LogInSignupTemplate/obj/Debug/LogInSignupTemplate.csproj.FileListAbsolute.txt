@@ -1,0 +1,12 @@
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.csproj.AssemblyReference.cache
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.Properties.Resources.resources
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.SignUpForm.resources
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.csproj.GenerateResource.cache
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.csproj.CoreCompileInputs.cache
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.Login.resources
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.Form1.resources
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\bin\Debug\LogInSignupTemplate.exe.config
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\bin\Debug\LogInSignupTemplate.exe
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\bin\Debug\LogInSignupTemplate.pdb
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.exe
+C:\Users\cWW\Source\Repos\LogInSignupTemplate\LogInSignupTemplate\obj\Debug\LogInSignupTemplate.pdb
